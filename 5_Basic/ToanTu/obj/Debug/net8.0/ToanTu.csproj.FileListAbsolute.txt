@@ -1,0 +1,14 @@
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.AssemblyInfoInputs.cache
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.AssemblyInfo.cs
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.csproj.CoreCompileInputs.cache
+G:\Dumb Projects\Helper\4_Basic\ToanTu\bin\Debug\net8.0\ToanTu.exe
+G:\Dumb Projects\Helper\4_Basic\ToanTu\bin\Debug\net8.0\ToanTu.deps.json
+G:\Dumb Projects\Helper\4_Basic\ToanTu\bin\Debug\net8.0\ToanTu.runtimeconfig.json
+G:\Dumb Projects\Helper\4_Basic\ToanTu\bin\Debug\net8.0\ToanTu.dll
+G:\Dumb Projects\Helper\4_Basic\ToanTu\bin\Debug\net8.0\ToanTu.pdb
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.dll
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\refint\ToanTu.dll
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.pdb
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ToanTu.genruntimeconfig.cache
+G:\Dumb Projects\Helper\4_Basic\ToanTu\obj\Debug\net8.0\ref\ToanTu.dll

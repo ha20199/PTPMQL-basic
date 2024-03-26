@@ -1,0 +1,14 @@
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.AssemblyInfoInputs.cache
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.AssemblyInfo.cs
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.csproj.CoreCompileInputs.cache
+G:\Dumb Projects\Helper\4_Basic\DataType\bin\Debug\net8.0\DataType.exe
+G:\Dumb Projects\Helper\4_Basic\DataType\bin\Debug\net8.0\DataType.deps.json
+G:\Dumb Projects\Helper\4_Basic\DataType\bin\Debug\net8.0\DataType.runtimeconfig.json
+G:\Dumb Projects\Helper\4_Basic\DataType\bin\Debug\net8.0\DataType.dll
+G:\Dumb Projects\Helper\4_Basic\DataType\bin\Debug\net8.0\DataType.pdb
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.dll
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\refint\DataType.dll
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.pdb
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\DataType.genruntimeconfig.cache
+G:\Dumb Projects\Helper\4_Basic\DataType\obj\Debug\net8.0\ref\DataType.dll
